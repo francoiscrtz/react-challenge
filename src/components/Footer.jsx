@@ -1,7 +1,9 @@
-function Footer() {
-    return (
-     
-    );
-  }
-  
-  export default Footer;
+const Footer = () => {
+  return (
+    <footer>
+      <p>Copyright Francois CREUTZER</p>
+    </footer>
+  );
+}
+
+export default Footer;
